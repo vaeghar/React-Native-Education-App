@@ -31,7 +31,7 @@ export default function SignInScreen() {
           <Input label={'Email address'} placeholder={'name@example.com'} />
           <Input
             label={'Password'}
-            placeholder={'********'}
+            placeholder={'*******'}
             Icon={EyeIcon}
             last
           />
